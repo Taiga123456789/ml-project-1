@@ -16,3 +16,6 @@
 ## 今後の改善
 - データ数を増やす
 - 別モデルを試す
+## その他
+私のポートフォリオ(Notion)
+https://stitch-vision-2a6.notion.site/AI-Engineer-Portfolio-2c938e8afc3580ad84daff6afae7df2f?source=copy_link
